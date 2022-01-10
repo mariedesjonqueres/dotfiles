@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marie.desjonqueres96@gmail.com
+	name = Marie Desjonqueres marie.desjonqueres96@gmail.com
